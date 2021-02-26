@@ -20,5 +20,5 @@ data consisted of `rest` scans.
 
 No additional cohort data was provided at this time of transfer. The imaging data was
 organized in BIDS and anonymized at the time of transfer. The raw data was copied to `/cbica/projects/RBC/HRC/working/BIDS`
-for BIDS curation and acquisition group testing, where it was checked into `datalad`. See [this notebook]('SubjectsSessionsModalities.ipynb')
+for BIDS curation and acquisition group testing, where it was checked into `datalad`. See [this notebook](SubjectsSessionsModalities.ipynb)
 for a code walkthrough of this investigation.
